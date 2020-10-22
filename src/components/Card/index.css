@@ -1,0 +1,21 @@
+.card {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 60px;
+    height: 10vh;
+    padding: 5% 0%;
+    background-color: whitesmoke;
+    margin: 2% 0%;
+    border-radius: 10px;
+}
+
+.card img {
+    border-radius: 50%;
+    width: 10%;
+}
+
+.hasMargin {
+    margin: 2% 5%;
+}
